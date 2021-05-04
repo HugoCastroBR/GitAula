@@ -1,5 +1,5 @@
-const JustLog = (params) => {
-    console.log("Teste")
+function JustLog(params) {
+    console.log(params)
 }
 
-JustLog("aaa")
+JustLog("isso aqui")
